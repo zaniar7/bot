@@ -239,22 +239,22 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {284916434,304631477},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @sina7sk
+    @zaniar1122
     Manager:
-    @yellowhat
+    @Team1122
     Founder:
-    @amirho3in
+    @zaniar1122
     
     Special Thank To:
-    Mehr Pouya
-    Arman
+    zaniar
+    ramsin
     IM/-\N
     Creed Is Dead
     
